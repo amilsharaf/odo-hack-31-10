@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Local data and logs
+*.db
+*.log
+
+# Secrets
+.env
+.env.*
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code local files
+.claude/
